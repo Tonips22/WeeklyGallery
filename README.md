@@ -5,7 +5,7 @@ Simple gallery main page.
 
 
 ## Website link
-none
+https://tonips22.github.io/WeeklyGallery/
 ## Authors
 
 - [Antonio García Torres](https://www.github.com/Tonips22)
