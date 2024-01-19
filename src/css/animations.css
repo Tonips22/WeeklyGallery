@@ -1,0 +1,26 @@
+/* Animations */
+
+@keyframes blur-header{
+    to{
+        background-color: var(--headerColor);
+        backdrop-filter: blur(1rem);
+    }
+}
+
+@keyframes color-animation{
+    to{
+        color: var(--brown);
+    }
+}
+
+@keyframes image-fade-in{
+    from{
+        opacity: 0;
+        translate: 0 10rem;
+    }
+
+    to{
+        opacity: 1;
+        translate: 0 0;
+    }
+}
